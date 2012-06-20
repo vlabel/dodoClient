@@ -1,4 +1,4 @@
-QT += network script
+QT += network
 # Add files and directories to ship with the application 
 # by adapting the examples below.
 # file1.source = myfile
